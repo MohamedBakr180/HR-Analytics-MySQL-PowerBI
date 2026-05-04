@@ -21,15 +21,15 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ## Dashboards
 
 ### Cover Page
-![Cover](Screenshots/Cover Page.png)
+![Cover](Screenshots/Cover-Page.png)
 
 ### Business Findings
 8 key HR findings with questions, data answers, and actionable recommendations.
 
-![Business Findings](screenshots/business_findings.png)
+![Business Findings](Screenshots/Business-Findings.png)
 
 ### 1. Attrition & Retention
-![Attrition](screenshots/attrition_dashboard.png)
+![Attrition](Screenshots/Attrition-Retention.png)
 
 **Key metrics:** Total attrition · Attrition rate · Regrettable attrition · Avg years before exit
 
@@ -38,7 +38,7 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ---
 
 ### 2. Recruitment & Hiring
-![Recruitment](screenshots/recruitment_dashboard.png)
+![Recruitment](Screenshots/Recruitment-Hiring.png)
 
 **Key metrics:** Avg days to fill · Overall hire rate · Open requisitions · Total applicants
 
@@ -47,7 +47,7 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ---
 
 ### 3. Workforce Planning
-![Workforce](screenshots/workforce_dashboard.png)
+![Workforce](Screenshots/Workforce-Planning.png)
 
 **Key metrics:** Active headcount · Avg age · Avg tenure · Salary by department
 
@@ -56,7 +56,7 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ---
 
 ### 4. Performance & Compensation
-![Compensation](screenshots/compensation_dashboard.png)
+![Compensation](Screenshots/Performance-Compensation.png)
 
 **Key metrics:** Avg salary · Gender pay gap · Underpaid high performers · Pay vs performance distribution
 

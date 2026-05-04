@@ -21,7 +21,7 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ## Dashboards
 
 ### Cover Page
-![Cover](screenshots/cover_page.png)
+![Cover](Cover Page.png)
 
 ### Business Findings
 8 key HR findings with questions, data answers, and actionable recommendations.

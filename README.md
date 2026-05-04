@@ -208,7 +208,7 @@ CALCULATE(COUNTROWS('Compensation performance'),
 **Mohamed Khaled**
 HR Specialist & Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/mohamedkhaled18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mohamedkhaled18/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MohamedBakr180)
 
 ---

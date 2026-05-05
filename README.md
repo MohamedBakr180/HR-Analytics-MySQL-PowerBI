@@ -26,10 +26,10 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ### Business Findings
 8 key HR findings with questions, data answers, and actionable recommendations.
 
-![Business Findings](Screenshots/Business-Findings.png)
+![Business Findings](Business-Findings.png)
 
 ### 1. Attrition & Retention
-![Attrition](Screenshots/Attrition-Retention.png)
+![Attrition](Attrition-Retention.png)
 
 **Key metrics:** Total attrition · Attrition rate · Regrettable attrition · Avg years before exit
 
@@ -38,7 +38,7 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ---
 
 ### 2. Recruitment & Hiring
-![Recruitment](Screenshots/Recruitment-Hiring.png)
+![Recruitment](Recruitment-Hiring.png)
 
 **Key metrics:** Avg days to fill · Overall hire rate · Open requisitions · Total applicants
 
@@ -47,7 +47,7 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ---
 
 ### 3. Workforce Planning
-![Workforce](Screenshots/Workforce-Planning.png)
+![Workforce](Workforce-Planning.png)
 
 **Key metrics:** Active headcount · Avg age · Avg tenure · Salary by department
 
@@ -56,7 +56,7 @@ An end-to-end HR analytics project built from scratch using MySQL and Power BI. 
 ---
 
 ### 4. Performance & Compensation
-![Compensation](Screenshots/Performance-Compensation.png)
+![Compensation](Performance-Compensation.png)
 
 **Key metrics:** Avg salary · Gender pay gap · Underpaid high performers · Pay vs performance distribution
 
